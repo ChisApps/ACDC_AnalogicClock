@@ -11,14 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 58,
-                        "endOffset": 111
-                    }
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml"
                 }
             },
             {
@@ -49,14 +42,7 @@
                     "endOffset": 441
                 },
                 "from": {
-                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 117,
-                        "endColumn": 62,
-                        "endOffset": 175
-                    }
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml"
                 }
             },
             {
@@ -68,14 +54,7 @@
                     "endOffset": 506
                 },
                 "from": {
-                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 1,
-                        "startOffset": 178,
-                        "endColumn": 61,
-                        "endOffset": 238
-                    }
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\ACDC_AnalogicClock\\app\\src\\main\\res\\values-es\\strings.xml"
                 }
             }
         ]

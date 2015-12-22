@@ -49,7 +49,13 @@ public class Widget extends AppWidgetProvider {
 				{ "Moto Blur Alarm Clock", "com.motorola.blur.alarmclock",
 						"com.motorola.blur.alarmclock.AlarmClock" },
 				{ "Samsung Galaxy Clock", "com.sec.android.app.clockpackage",
-						"com.sec.android.app.clockpackage.ClockPackage" } };
+						"com.sec.android.app.clockpackage.ClockPackage" },
+				{"LG Alarm Clock", "com.lge.clock",
+						"com.lge.clock.AlarmClockActivity"}, // newer devices e.g. LG G3
+				{"LG Alarm Clock", "com.lge.clock",
+						"com.lge.clock.DefaultAlarmClockActivity"}, // older devices e.g. LG-E610
+				{"Sony Ericsson Xperia Z", "com.sonyericsson.organizer",
+						"com.sonyericsson.organizer.Organizer_WorldClock" }};
 
 		for (int i = 0; i < clockImpls.length; i++) {
 			String vendor = clockImpls[i][0];
