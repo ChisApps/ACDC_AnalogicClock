@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:2:1-40:12
+	xmlns:android
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:6:3-76
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:6:20-73
+application
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:7:5-34:19
+	android:label
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:8:9-38
+activity#com.CrisFiApps.ACDCAnalogicClock.Info
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:11:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.INFO
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.INFO
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:16:17-73
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:16:27-70
+activity#com.google.ads.AdActivity
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:20:3-21:126
+	android:configChanges
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:21:15-124
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:20:13-53
+receiver#com.CrisFiApps.ACDCAnalogicClock.Widget
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:23:9-33:20
+	android:label
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:24:13-35
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:26:13-28:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:27:17-84
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:27:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:30:13-32:50
+	android:resource
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:32:17-47
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:31:17-58
+uses-sdk
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:36:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:36:15-40
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:37:5-66
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:37:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:38:4-77
+	android:name
+		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:38:21-75

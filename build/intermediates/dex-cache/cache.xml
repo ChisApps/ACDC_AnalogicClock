@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jorgefc82\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_1d0aebcf4ec5b740b3c8e1bc4e65cdb796d1c4bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\GoogleAdMobAdsSdk-6.4.1_90c3599b4516c733ba0497036c1c98614f486bfb.jar" />
+    </item>
+
+</items>
