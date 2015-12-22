@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Jorgefc82\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_1d0aebcf4ec5b740b3c8e1bc4e65cdb796d1c4bb.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_8603639e47191a76dc089d93cb9c04c3bd3b49a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorgefc82\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_a9a5cb0ae124914372f7d8796551643e2e29247d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_f04f9eeef96686ce73e135d08c1cde26c0c5414f.jar" />
     </item>
     <item
         jar="C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"

@@ -21,6 +21,7 @@ ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\sr
 		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:6:20-73
 application
 ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
@@ -67,6 +68,7 @@ ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\sr
 		ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:31:17-58
 uses-sdk
 ADDED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml:36:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jorgefc82\Desktop\ProyectosAndroid\ACDC_AnalogicClock\app\src\main\AndroidManifest.xml

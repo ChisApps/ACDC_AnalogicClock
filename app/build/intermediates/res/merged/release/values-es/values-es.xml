@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AD/DC reloj analógico</string>
-    <string name="info_text">Esto es un widget, no es una aplicación común. Los widgets se han de poner en el escritorio directamente selecionandolos desde el cajón de widgets. No busque el icono de la aplicación en el lanzador. Le deseamos que lo disfrute!!!</string>
+    <string name="info_text">Esto es un widget, no es una aplicación común. Los widgets se han de poner en el escritorio directamente selecionándolos desde el cajón de widgets. No busque el icono de la aplicación en el lanzador. Le deseamos que lo disfrute!!!</string>
     <string name="widget_name">Widget reloj AC/DC 2x2</string>
     <string name="widgetxl_name">Widget reloj AC/DC 4x4</string>
 </resources>
